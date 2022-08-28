@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name myelin-kicad)(type KiCad)(uri ${KIPRJMOD}/myelin-kicad.pretty-master)(options "")(descr ""))
+  (lib (name w_conn_av)(type KiCad)(uri ${KIPRJMOD}/w_conn_av.pretty)(options "")(descr ""))
+)
